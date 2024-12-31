@@ -7,9 +7,9 @@ prefix for all tattoos is Tattoos
 All classnames and types can be found in the Extras Folder
 
 **Features**
- 6x arm tattoos
- 5x Leg tattoos
- 1x Hand tattoos
+ - 6x arm tattoos
+ - 5x Leg tattoos
+ - 1x Hand tattoos
 
 **Future Features**
  more tattoos and crafting system
