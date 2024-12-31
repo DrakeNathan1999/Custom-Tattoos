@@ -7,7 +7,7 @@ prefix for all tattoos is Tattoos
 All classnames and types can be found in the Extras Folder
 
 
-**How to make your own tattoos***
+**How to make your own tattoos**
 [https://github.com/DrakeNathan1999/Custom-Tattoos]
 
 **Features**
