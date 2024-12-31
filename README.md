@@ -14,7 +14,7 @@ All classnames and types can be found in the Extras Folder
 **Future Features**
  more tattoos and crafting system
 
-**Known Issues
+**Known Issues**
 Female Player model isnt fully attached to the arms on the top
 Tattoos may clip with the skin when using animations
 
