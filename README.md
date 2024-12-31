@@ -18,7 +18,7 @@ All classnames and types can be found in the Extras Folder
 Female Player model isnt fully attached to the arms on the top
 Tattoos may clip with the skin when using animations
 
-***PERMISSIONS
+***PERMISSIONS**
 You are ALLOWED to monetize this content. You must adhere to Bohemia Interactives Monetization guidelines, as well as be approved by Bohemia Interactive to utilize an authorized monetization scheme. You will NOT need to reach out to me for permission to use this in your monetization schemes.
 
 You ARE allowed to retexture stuff in this mod.
