@@ -6,7 +6,7 @@ Hope you enjoy it as much as we do
 prefix for all tattoos is Tattoos
 All classnames and types can be found in the Extras Folder
 
-**Links**
+**Links:**
 
 To view the types please visitplease note this is only a template and still needs setting up for your spesific server
 [Types](https://github.com/DrakeNathan1999/Custom-Tattoos/blob/main/Extra/Types/Types.xml)
@@ -18,27 +18,30 @@ To view the classnames please visit
 to visit our config template please visit
 [Config](https://github.com/DrakeNathan1999/Custom-Tattoos/blob/main/Extra/Config%20Template/Config.md)
 
-**Features**
+**Features:**
+- crafting system (can choose how you would like them to be drafted if can be at all)
+- crafting logs
 - 6x arm tattoos
 - 5x Leg tattoos
 - 1x Hand tattoos
 
 
-**Future Features**
+**Future Features:**
 - more tattoos
 - tattoo props
 
 
-**Known Issues**
-Female Player model isn't fully attached to the arms on the top
-Tattoos may clip with the skin when using animations
+**Known Issues:**
+- tattoo logs will build up over time requires admins to remove manualy if get to many
+- Female Player model isn't fully attached to the arms on the top
+- Tattoos may clip with the skin when using animations
 
-**Credits**
-Brightside: for making the 3D model sleeve
-Gunnar: Config help
+**Credits:**
+- Brightside: for making the 3D model sleeve
+- Gunnar: Config help
 
 
-**PERMISSIONS**
+**PERMISSIONS:**
 You are ALLOWED to monetize this content. You must be adhering to Bohemia Interactives Monetization guidelines, as well as be approved by Bohemia Interactive to utilize an authorized monetization scheme. You will NOT need to reach out to me for permission to use this in your monetization schemes.
 
 You ARE allowed to retexture stuff in this mod.
@@ -48,5 +51,6 @@ YOU ARE NOT ALLOWED TO REPACK/REPUBLISH/REKEY ANY CONTENT FROM THIS PACK.
 Any mods using the content within this mod will be issued a DMCA notice without warning.
 
 
-Contact
+**Contact:**
+
 discord contact: cysgodhir
