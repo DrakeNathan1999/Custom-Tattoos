@@ -6,6 +6,13 @@ Hope you enjoy it as much as we do
 prefix for all tattoos is Tattoos
 All classnames and types can be found in the Extras Folder
 
+**Links**
+To view the types please visitplease note this is only a template and still needs setting up for your spesific server
+[Types](https://github.com/DrakeNathan1999/Custom-Tattoos/blob/main/Extra/Types/Types.xml)
+To view the classnames please visit
+[Classnames](https://github.com/DrakeNathan1999/Custom-Tattoos/blob/main/Extra/ClassNames/ClassNames.md)
+
+
 **Features**
 - 6x arm tattoos
 - 5x Leg tattoos
