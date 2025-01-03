@@ -26,7 +26,7 @@ to visit our config template please visit
 
 **Future Features**
 - more tattoos
-- crafting system
+- tattoo props
 
 
 **Known Issues**
