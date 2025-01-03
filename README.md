@@ -34,7 +34,8 @@ Female Player model isn't fully attached to the arms on the top
 Tattoos may clip with the skin when using animations
 
 **Credits**
-Brightside for making the 3D model sleeve
+Brightside: for making the 3D model sleeve
+Gunnar: Config help
 
 
 **PERMISSIONS**
