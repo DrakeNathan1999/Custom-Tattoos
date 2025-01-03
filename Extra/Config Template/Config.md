@@ -1,3 +1,4 @@
+```
 {
     "EnableCraftLogging": 1,
     "CanCraftKits": 1,
@@ -125,3 +126,4 @@
         }
     }
 }
+```
