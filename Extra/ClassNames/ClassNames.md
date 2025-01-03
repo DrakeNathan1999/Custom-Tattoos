@@ -1,0 +1,15 @@
+Tattoo_Ink
+Tattoo_Pen_Empt
+
+Tattoo_RightArm_1
+Tattoo_RightArm_2
+Tattoo_LeftArm_3
+Tattoo_LeftLeg_4
+Tattoo_RightLeg_5
+Tattoo_RightArm_6
+Tattoo_RightLeg_7
+Tattoo_RightLeg_8
+Tattoo_LeftArm_9
+Tattoo_LeftArm_10
+Tattoo_RightHand_11
+Tattoo_LeftHand_12
