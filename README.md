@@ -8,6 +8,10 @@ All classnames and types can be found in the Extras Folder
 
 **Links:**
 
+To view the latest change log please head to
+To view the types please visitplease note this is only a template and still needs setting up for your spesific server
+[changeLog](https://github.com/DrakeNathan1999/Custom-Tattoos/blob/main/Extra/Changelog/Change%20Log.md)
+
 To view the types please visitplease note this is only a template and still needs setting up for your spesific server
 [Types](https://github.com/DrakeNathan1999/Custom-Tattoos/blob/main/Extra/Types/Types.xml)
 
